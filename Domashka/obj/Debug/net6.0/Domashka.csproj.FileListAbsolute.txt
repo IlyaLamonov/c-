@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\bin\Debug\net6.0\Domashka.exe
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\bin\Debug\net6.0\Domashka.deps.json
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\bin\Debug\net6.0\Domashka.runtimeconfig.json
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\bin\Debug\net6.0\Domashka.dll
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\bin\Debug\net6.0\Domashka.pdb
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\obj\Debug\net6.0\Domashka.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\obj\Debug\net6.0\Domashka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\obj\Debug\net6.0\Domashka.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\obj\Debug\net6.0\Domashka.AssemblyInfo.cs
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\obj\Debug\net6.0\Domashka.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\obj\Debug\net6.0\Domashka.dll
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\obj\Debug\net6.0\refint\Domashka.dll
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\obj\Debug\net6.0\Domashka.pdb
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\obj\Debug\net6.0\Domashka.genruntimeconfig.cache
+C:\Users\user\Desktop\CSHARP\lesson1\Domashka\obj\Debug\net6.0\ref\Domashka.dll
